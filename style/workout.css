@@ -4,10 +4,13 @@
   font-family: 'DM Mono', monospace;
 }
 .main {
-    max-width: 560px;
+    max-width: 540px;
     margin: 0 auto;
     text-align: center;
     padding-top: 90px;
+}
+.fas {
+    color:#3e82ff;
 }
 .timer {
     padding: 15px 0;
